@@ -1,0 +1,2 @@
+# storyy
+İlk Projem
